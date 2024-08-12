@@ -3,8 +3,8 @@ class Appointment {
     private int id;
     private Patient patient;
     private Doctor doctor;
-    private String date;  // Changed from LocalDate to String
-    private String time;  // Changed from LocalTime to String
+    private String date;  
+    private String time;  
     private String reason;
     private String status;
 
